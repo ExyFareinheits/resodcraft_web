@@ -448,7 +448,7 @@ function Footer() {
             &copy; {new Date().getFullYear()} Resod Craft
           </span>
           <span className="footer-ip">
-            IP сервера: <span style={{ color: '#00ffb4' }}>resodcraft.gomc.fun</span>
+            IP сервера: <span style={{ color: '#00ffb4' }}>resodcraft.gigacube.host</span>
           </span>
         </div>
         <div className="footer-links">
